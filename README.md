@@ -20,6 +20,8 @@ Users can explore books by *meaning*, *category*, *emotional tone*, and select d
 
 ---
 
+![image](https://github.com/user-attachments/assets/bbb70d19-22df-4115-b6d7-7c7b528c8962)
+
 
 ---
 
